@@ -1,9 +1,11 @@
-# socket-server
+# SocketTester
 
-# Step 1
+Node socket server
 
-npm install
+## Step 1
 
-# Step 2
+Run `npm install`
 
-node .
+## Step 2
+
+Run `node .` for a socket server. 
