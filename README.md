@@ -1,6 +1,9 @@
 # socket-server
 
-#step 1
+# Step 1
+
 npm install
-#step 2
+
+# Step 2
+
 node .
